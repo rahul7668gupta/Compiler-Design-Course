@@ -4,7 +4,7 @@
 
 ### DFA Diagram 
 
-![](https://github.com/rahul7668gupta/Compiler-Design-Course/blob/master/Week%201%20Lab%20Exercise/image.jpg?raw=true)
+![](https://github.com/rahul7668gupta/Compiler-Design-Course/blob/master/Week-1-Lab-Exercise/image.jpg?raw=true)
 
 #### ∑ = {a, b}
 
